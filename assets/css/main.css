@@ -3445,7 +3445,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #000000;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3594,7 +3594,7 @@ input, select, textarea {
 			-ms-transition: -ms-transform 0.5s ease, opacity 0.5s ease;
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			display: inline-block;
-			font-size: 1.75em;
+			font-size: 5em;
 			opacity: 1;
 			padding: 0.35em 1em;
 			position: relative;
@@ -3694,7 +3694,7 @@ input, select, textarea {
 			-ms-transition-delay: 1.25s;
 			transition-delay: 1.25s;
 			content: '';
-			background: #2e3842;
+			background: #000000;
 			display: block;
 			width: 100%;
 			height: 100%;
