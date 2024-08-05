@@ -2976,11 +2976,11 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #2e3842;
+			background-color: #000000;
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #ffffff;
 			color: #d3d4e4;
 		}
 
@@ -3886,7 +3886,7 @@ input, select, textarea {
 
 	#footer {
 		padding: 6em 0 4em 0 ;
-		background-color: #1d242a;
+		background-color: #000000;
 		text-align: center;
 	}
 
@@ -3976,7 +3976,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: rgba(0, 0, 0, 0.9);
 	}
 
 	body.is-mobile.landing #page-wrapper {
